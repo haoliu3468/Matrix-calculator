@@ -1,7 +1,7 @@
 # Matrix-calculator
 #### Video Demo: <https://youtu.be/jvI8rtPwKkI>
 ## Features
-"Matrix calculator" has eight main functions:
+"Matrix calculator" has seven main functions:
 1. Find the row echelom form of the matrix (any size)
 2. Find the reduced row echelom form of the matrix (any size)
 3. Find the determinant of the square matrix (1x1, 2x2, and 3x3)
